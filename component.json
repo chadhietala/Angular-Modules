@@ -1,0 +1,8 @@
+{
+  "name": "AngularJS Components",
+  "version": "1.0.0",
+  "main": ["resource.js", "cookies.js", "sanitize.js", "loader.js", "angular-mocks.js"],
+  "dependencies": {
+    "angular": "~1.0.0"
+  }
+}
