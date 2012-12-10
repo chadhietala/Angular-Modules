@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": ["resource.js", "cookies.js", "sanitize.js", "loader.js", "angular-mocks.js"],
   "dependencies": {
-    "angular": "~1.0.0"
+    "angular": "d04689f019f8febd8a86839dfb044a49f5737f72"
   }
 }
